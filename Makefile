@@ -1,4 +1,4 @@
-VERSION=0.0.1
+VERSION=0.0.2
 GO111MODULE=off
 # Image URL to use all building/pushing image targets
 IMG=zhangqiongjie/web-terminal:${VERSION}
